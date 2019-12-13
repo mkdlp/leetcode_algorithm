@@ -1,8 +1,7 @@
 package com.mkdlp.algorithm.date20191212.threesum;
 
 import java.lang.reflect.Array;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 /**
  * 功能描述:
@@ -25,19 +24,50 @@ public class ThreeSum {
 
     public static void main(String[] args) {
         int[] nums={-1, 0, 1, 2, -1, -4};
-        soulution1(nums);
+        System.out.println(soulution1(nums));
     }
 
     /**
      * 功能描述:
-     * 〈第一种解法：暴力解法〉
+     * 〈排序双指针法〉
      *
      * @param nums
-     * @return : int[][]
+     * @return :
      * @author : mkdlp
      * @date : since 2019/12/12 18:47
      */
-    public static int[][] soulution1(int[] nums){
-        return null;
+    public static List<List<Integer>> soulution1(int[] nums){
+        List<List<Integer>> res=new ArrayList<>();
+        Arrays.sort(nums);
+
+        for(int i=0;i<nums.length-2;i++){
+            int left=i+1;
+            int right=nums.length-1;
+            if(nums[i]>0){
+                break;
+            }
+            if(i>0 && nums[i]==nums[i-1]){
+                continue;
+            }
+            while(left<right){
+                int sum=nums[i]+nums[left]+nums[right];
+                if(sum==0){
+                    res.add(Arrays.asList(nums[i],nums[left],nums[right]));
+                    while(left < right && nums[left]==nums[left+1]){
+                        left++;
+                    }
+                    while(left < right && nums[right]==nums[right-1]){
+                        right--;
+                    }
+                    left++;
+                    right--;
+                }else if(sum>0){
+                    right--;
+                }else if(sum<0){
+                    left++;
+                }
+            }
+        }
+        return res;
     }
 }
