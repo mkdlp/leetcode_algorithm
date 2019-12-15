@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4109642a-f1dc-4631-8fdc-5cd78755d9b6" name="Default Changelist" comment="求两数组中位数的解法1">
-      <change afterPath="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191023/removeduplicates/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191024/removeelement/RemoveElement.java" afterDir="false" />
+    <list default="true" id="4109642a-f1dc-4631-8fdc-5cd78755d9b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191215/foursumcloset/FourSumCloset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191215/search/Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/mkdlp/algorithm/date20190902/LengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/mkdlp/algorithm/date20190902/LengthOfLongestSubstring.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,19 +13,97 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="241" />
-  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1563820750">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5285" />
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5285" />
+          <entry key="PLAIN_TEXT" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191024/removeelement/RemoveElement.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/util/BinarySearchTemplate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-693">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state relative-caret-position="1232">
+              <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191212/threesum/ThreeSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1540">
+              <caret line="71" column="5" selection-start-line="38" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191214/threesumcloset/ThreeSumCloset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191215/foursumcloset/FourSumCloset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="24" column="24" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="24" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191215/search/Search.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="590">
+              <caret line="59" column="18" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="59" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -40,6 +117,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>target</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -51,22 +133,26 @@
         <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190829/AddingTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190902/lengthOfLongestSubstring1.java" />
         <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190902/lengthOfLongestSubstring.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190902/LengthOfLongestSubstring1.java" />
         <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190902/LengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190902/LengthOfLongestSubstring1.java" />
         <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190903/FindMedianSortedArrays.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191009/NumberReverse.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191011/ispalindrome/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191012/romantoint/RomanToInt.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191016/longestcommonprefix/longestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191016/longestcommonprefix/LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191017/isvalid/IsValid.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191021/mergetwolists/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/util/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191021/mergetwolists/MergeTwoLists.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191023/removeduplicates/RemoveDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191024/removeelement/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190904/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190904/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190904/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/util/BinarySearchTemplate.java" />
+        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191212/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191212/threesum/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191214/threesumcloset/ThreeSumCloset.java" />
+        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191215/foursumcloset/FourSumCloset.java" />
+        <option value="$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191215/search/Search.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -77,11 +163,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="364" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -89,43 +176,59 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="removeelement" type="462c0819:PsiDirectoryNode" />
+              <item name="date20191215" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="date20191215" type="462c0819:PsiDirectoryNode" />
+              <item name="foursumcloset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576412743639" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -147,13 +250,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveElement">
-    <configuration name="IsValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mkdlp.algorithm.date20191017.isvalid.IsValid" />
+  <component name="RunManager" selected="Application.Search">
+    <configuration name="FourSumCloset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkdlp.algorithm.date20191215.foursumcloset.FourSumCloset" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mkdlp.algorithm.date20191017.isvalid.*" />
+          <option name="PATTERN" value="com.mkdlp.algorithm.date20191215.foursumcloset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mkdlp.algorithm.date20191016.longestcommonprefix.LongestCommonPrefix" />
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkdlp.algorithm.date20191215.search.Search" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mkdlp.algorithm.date20191016.longestcommonprefix.*" />
+          <option name="PATTERN" value="com.mkdlp.algorithm.date20191215.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mkdlp.algorithm.date20191021.mergetwolists.MergeTwoLists" />
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkdlp.algorithm.date20190904.Solution1" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mkdlp.algorithm.date20191021.mergetwolists.*" />
+          <option name="PATTERN" value="com.mkdlp.algorithm.date20190904.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mkdlp.algorithm.date20191023.removeduplicates.RemoveDuplicates" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkdlp.algorithm.date20191212.threesum.ThreeSum" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mkdlp.algorithm.date20191023.removeduplicates.*" />
+          <option name="PATTERN" value="com.mkdlp.algorithm.date20191212.threesum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mkdlp.algorithm.date20191024.removeelement.RemoveElement" />
+    <configuration name="ThreeSumCloset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkdlp.algorithm.date20191214.threesumcloset.ThreeSumCloset" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mkdlp.algorithm.date20191024.removeelement.*" />
+          <option name="PATTERN" value="com.mkdlp.algorithm.date20191214.threesumcloset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,13 +316,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Solution1" />
+      <item itemvalue="Application.ThreeSum" />
+      <item itemvalue="Application.ThreeSumCloset" />
+      <item itemvalue="Application.FourSumCloset" />
+      <item itemvalue="Application.Search" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveElement" />
-        <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.MergeTwoLists" />
-        <item itemvalue="Application.IsValid" />
-        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.Search" />
+        <item itemvalue="Application.FourSumCloset" />
+        <item itemvalue="Application.ThreeSumCloset" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -238,75 +348,45 @@
       <workItem from="1567158031005" duration="1773000" />
       <workItem from="1567385814667" duration="69000" />
       <workItem from="1567395750389" duration="621000" />
-      <workItem from="1567414903776" duration="3990000" />
-      <workItem from="1567419115128" duration="998000" />
-      <workItem from="1567473291398" duration="5583000" />
-      <workItem from="1567558779088" duration="1803000" />
-      <workItem from="1567648306327" duration="8122000" />
-      <workItem from="1567730530604" duration="2393000" />
-      <workItem from="1570603292171" duration="5893000" />
-      <workItem from="1570788620447" duration="8000" />
-      <workItem from="1570789143655" duration="1465000" />
-      <workItem from="1570851680027" duration="3438000" />
-      <workItem from="1571014566029" duration="5000" />
-      <workItem from="1571014637427" duration="9000" />
-      <workItem from="1571049674537" duration="972000" />
-      <workItem from="1571134507599" duration="2320000" />
-      <workItem from="1571216134416" duration="7392000" />
-      <workItem from="1571274890988" duration="10066000" />
-      <workItem from="1571628833619" duration="2130000" />
-      <workItem from="1571792849939" duration="6147000" />
-      <workItem from="1571817878865" duration="4674000" />
-      <workItem from="1571878107321" duration="2886000" />
-      <workItem from="1571881978776" duration="2938000" />
-      <workItem from="1574918134303" duration="408000" />
+      <workItem from="1567414903776" duration="3648000" />
+      <workItem from="1567517732858" duration="973000" />
+      <workItem from="1567599558646" duration="1444000" />
+      <workItem from="1567771531875" duration="1338000" />
+      <workItem from="1567813684640" duration="27000" />
+      <workItem from="1567833862528" duration="10310000" />
+      <workItem from="1567902496882" duration="97000" />
+      <workItem from="1573742652913" duration="830000" />
+      <workItem from="1574773130124" duration="277000" />
+      <workItem from="1576016644555" duration="4137000" />
+      <workItem from="1576153868031" duration="3789000" />
+      <workItem from="1576189359028" duration="2217000" />
+      <workItem from="1576276488383" duration="4171000" />
+      <workItem from="1576366953847" duration="4731000" />
     </task>
-    <task id="LOCAL-00001" summary="算法联系初始化">
-      <created>1567418942502</created>
+    <task id="LOCAL-00001" summary="1111">
+      <created>1574773156041</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1567418942503</updated>
+      <updated>1574773156041</updated>
     </task>
-    <task id="LOCAL-00002" summary="算法联系初始化">
-      <created>1567503686815</created>
+    <task id="LOCAL-00002" summary="二分法理解">
+      <created>1576021391196</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1567503686815</updated>
+      <updated>1576021391197</updated>
     </task>
-    <task id="LOCAL-00003" summary="求两数组中位数的解法1">
-      <created>1567508498408</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1567508498408</updated>
-    </task>
-    <task id="LOCAL-00004" summary="求两数组中位数的解法1">
-      <created>1571629002967</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1571629002967</updated>
-    </task>
-    <task id="LOCAL-00005" summary="合并两个有序数组">
-      <created>1571803242341</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1571803242341</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90290000" />
+    <option name="totallyTimeSpent" value="54639000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18230277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15381558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -315,8 +395,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18438178" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.26681128" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3458236" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24434036" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -324,9 +404,9 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" visible="true" weight="0.21800433" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32943013" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -336,74 +416,41 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="算法联系初始化" />
-    <MESSAGE value="求两数组中位数的解法1" />
-    <MESSAGE value="合并两个有序数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="合并两个有序数组" />
+    <MESSAGE value="1111" />
+    <MESSAGE value="二分法理解" />
+    <option name="LAST_COMMIT_MESSAGE" value="二分法理解" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191012/romantoint/RomanToInt.java</url>
-          <line>27</line>
+          <url>file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191214/threesumcloset/ThreeSumCloset.java</url>
+          <line>21</line>
           <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191016/longestcommonprefix/LongestCommonPrefix.java</url>
-          <line>125</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191021/mergetwolists/MergeTwoLists.java</url>
-          <line>78</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191024/removeelement/RemoveElement.java</url>
-          <line>52</line>
-          <properties />
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/algorithm$IsValid.ic" NAME="IsValid Coverage Results" MODIFIED="1571301049145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.mkdlp.algorithm.date20191017.isvalid.*</FILTER>
-    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190828/SumOfTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="773">
           <caret line="71" column="55" selection-start-line="71" selection-start-column="55" selection-end-line="71" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190902/LengthOfLongestSubstring1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190904/Product.java" />
     <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190829/AddingTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1166">
@@ -413,112 +460,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190902/LengthOfLongestSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190903.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190902/LengthOfLongestSubstring1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190829/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190903/FindMedianSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2222">
-          <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+        <state relative-caret-position="578">
+          <caret line="149" column="5" lean-forward="true" selection-start-line="126" selection-start-column="4" selection-end-line="149" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191009/NumberReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190904/LongestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="763">
-          <caret line="38" column="86" selection-start-line="38" selection-start-column="86" selection-end-line="38" selection-end-column="86" />
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191012/romantoint/RomanToInt.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190904/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="264">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191016/longestcommonprefix/LongestCommonPrefix.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20190904/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2882">
-          <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="704">
+          <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191011/ispalindrome/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191212/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/util/BinarySearchTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1232">
+          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191017/isvalid/IsValid.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191212/threesum/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        <state relative-caret-position="1540">
+          <caret line="71" column="5" selection-start-line="38" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191214/threesumcloset/ThreeSumCloset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191021/mergetwolists/ListNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191021/mergetwolists/MergeTwoLists.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191215/foursumcloset/FourSumCloset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="112" column="23" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/util/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191023/removeduplicates/RemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        <state relative-caret-position="390">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="24" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191024/removeelement/RemoveElement.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mkdlp/algorithm/date20191215/search/Search.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-693">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="590">
+          <caret line="59" column="18" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="59" selection-end-column="18" />
         </state>
       </provider>
     </entry>
